@@ -7,4 +7,5 @@ Lin Weixuan, Li Yuzhu
 - [Lab 01](lab01/lab01report.md)
 - [Lab 02](lab02/lab02report.md)
 - [Lab 03](lab03/lab03report.md)
+- [Lab 04](lab04/lab04report.md)
 
