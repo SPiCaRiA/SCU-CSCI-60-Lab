@@ -6,7 +6,7 @@ using namespace std;
 class ModInt
 {
     private:
-        int mod = 0;;
+        int mod = 1;;
         int val = 0;
 
     public:
